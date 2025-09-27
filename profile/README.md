@@ -1,2 +1,2 @@
 ![header](banner.png)
-# Code Library for Unified Builds
+## Build, connect, and deploy with one consistent ecosystem.
